@@ -1,0 +1,12 @@
+{
+  "name": "wu-tang-name-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Node.js-powered Wu-Tang-style name generator",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
